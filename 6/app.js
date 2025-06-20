@@ -1,6 +1,5 @@
 function yearsToDays(years) {
-  let year = 365;
-  return years * year;
+  return years * 365;
 }
 
 console.log(yearsToDays(65));
